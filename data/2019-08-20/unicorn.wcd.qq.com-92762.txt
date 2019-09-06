@@ -1,0 +1,1 @@
+{"project_name": "QQ\u6d4f\u89c8\u5668", "project_pos": "\u7ba1\u5bb6", "install_cpa": "1.6", "channel": "92762-\u7545\u6e38\u7f51\u7edc_0328-QQ\u6d4f\u89c8\u566804", "install_num": "880", "price_num": 0}

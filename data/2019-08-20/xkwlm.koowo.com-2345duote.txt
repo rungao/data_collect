@@ -1,0 +1,4 @@
+{"project_name": "kuwo", "project_pos": "\u7ba1\u5bb6", "install_cpa": "0.3", "channel": "2345duote-12", "install_num": "113", "price_num": "33.9"}
+{"project_name": "kuwo", "project_pos": "\u7ba1\u5bb6", "install_cpa": "0.3", "channel": "2345duote-07", "install_num": "400", "price_num": "120"}
+{"project_name": "kuwo", "project_pos": "\u7ba1\u5bb6", "install_cpa": "0.3", "channel": "2345duote-08", "install_num": "405", "price_num": "121.5"}
+{"project_name": "kuwo", "project_pos": "\u7ba1\u5bb6", "install_cpa": "0.3", "channel": "2345duote-09", "install_num": "399", "price_num": "119.7"}
