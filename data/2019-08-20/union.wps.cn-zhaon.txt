@@ -1,5 +1,0 @@
-{"project_name": "WPS", "project_pos": "\u7ba1\u5bb6\u6e20\u9053", "install_cpa": "0.5", "channel": "60.1897", "install_num": "1906", "price_num": "953.00"}
-{"project_name": "WPS", "project_pos": "\u7ba1\u5bb6\u6e20\u9053", "install_cpa": "0.5", "channel": "20.2665", "install_num": "51", "price_num": "20.40"}
-{"project_name": "WPS", "project_pos": "\u7ba1\u5bb6\u6e20\u9053", "install_cpa": "0.5", "channel": "20.2666", "install_num": "160", "price_num": "64.00"}
-{"project_name": "WPS", "project_pos": "\u7ba1\u5bb6\u6e20\u9053", "install_cpa": "0.5", "channel": "20.2667", "install_num": "116", "price_num": "46.40"}
-{"project_name": "WPS", "project_pos": "\u7ba1\u5bb6\u6e20\u9053", "install_cpa": "0.5", "channel": "20.2668", "install_num": "15", "price_num": "6.00"}
